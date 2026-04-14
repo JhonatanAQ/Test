@@ -1,1 +1,1 @@
-# Test
+Link do git hub do meu projeto : https://github.com/Jhonatan-Andrade/Shadow-Metrics Preciso que crie a documentação do meu projeto incluindo o proceso de instalação . - React: este projeto ultilisa o vite para criação da interface com styled components - Docker : responsavel por iniciar os serviços do zabbix [ postgreSQL,Zabbix Server,Zabbix Web] Para se conectar com o Zabbix preciso ir no zabbix web e gerar uma api-kay e colocar no .env da aplicação
