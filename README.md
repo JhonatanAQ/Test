@@ -140,7 +140,7 @@ Shadow-Metrics/
 └── README.md
 ```
 
-## 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 - React
 - Vite
@@ -149,7 +149,7 @@ Shadow-Metrics/
 - Zabbix
 - PostgreSQL
 
-## ⚠️ Observações
+###  ⚠️ Observações
 
 - Certifique-se de que as portas do Docker não estão em uso
 - O tempo de inicialização do Zabbix pode levar alguns minutos
@@ -159,7 +159,7 @@ Shadow-Metrics/
 docker-compose logs -f
 ```
 
-## 📄 Licença
+### 📄 Licença
 
 Este projeto está sob a licença MIT.
 
